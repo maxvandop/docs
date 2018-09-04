@@ -52,7 +52,7 @@ The **Sort by** drop-down menu at the top of the screen has three options for so
 
 ![](attachments/the-mendix-forum/questions_sort_by.png)
 
-#### 2.1.2 Searching<a name="Searching"></a>
+#### 2.1.2 Searching {#Searching}
 
 In addition to sorting, you can search the entire forum (both for questions and ideas) by clicking the search icon in the upper-right corner of the screen and entering keywords into **Search Mendix**.
 
