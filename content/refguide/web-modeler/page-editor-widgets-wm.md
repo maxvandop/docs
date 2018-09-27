@@ -7,11 +7,11 @@ tags: ["web modeler", "page editor", "pages", "widgets"]
 
 ## 1 Introduction 
 
-Widgets are single user-interface elements that can be configured, for example, a drop-down menu or different kind of buttons. 
+Widgets are single user-interface elements that can be configured: for example, a drop-down menu or different kind of buttons. 
 
 ![](attachments/page-editor-widgets-wm/wm-widgets-examples.png)
 
-Widgets in the Web Modeler differ by categories and by the origin. 
+Widgets in the Web Modeler are grouped by category and can be classified by their origin. 
 
 ## 2 Viewing Widgets in the Web Modeler
 
